@@ -29,19 +29,22 @@ This may come across as a bit self indulgent but when I write, I'm mostly talkin
 
 I realised long ago that I like reading what I write. It captures a time, place and emotion for me which I like to relive often. 
 
-## Sadness stays with me
 
-I feel some emotions more than others. You'll almost never find me angry or jealous or jumping with excitement. I'm often lost in a state of melancholy, and typically, for no particular reason. Sadness stays with me for a very long time. 
 
 ## Music
 
 I have a very broad taste in music. I love Indian Classical Music, especially the Light Classical forms Ghazal, Thumri and Qawwalli. I also love listening to sufi, soft rock, hip hop, and punjabi folk. I don't like EDM. Some of my favorite artists are Ustad Nusrat Fateh Ali Khan, Ustad Ghulam Ali Khan, Shafqat Amanat Ali, Javed Bashir, Jeff Buckley, Daughtry, Nikhil D'souza, Eminem and Bohemia.
 
+## Sadness stays with me
+
+I feel some emotions more than others. You'll almost never find me angry or jealous or jumping with excitement. I'm often lost in a state of melancholy, and typically, for no particular reason. Sadness stays with me for a very long time. 
+
 
 ## I hate noise
 
-I love silence and solitude. Crowds drain me. I find it difficult to converse with multiple people at the same time, so most of my interactions are one-on-one. My idea of fun is reading a thought provoking book, or discovering a piece of music that I would listen to a million times and still not get bored.
+I love silence and solitude. Crowds drain me. I find it difficult to converse with multiple people at the same time, so most of my interactions are one-on-one, and to the point. I believe that there's too much noise in the world as is so I refrain from contributing to it. You'll find that I either express my thoughts honestly or stay silent.
+My idea of fun is reading a thought provoking book, or discovering a piece of music that I would listen to a million times and still not get bored. 
 
 
-
-There you go, you know me a lot better now. So don't be shy, and [say hello](/contact) to return the favour. I'd love to know about you.
+## There you go 
+You know me a lot better now. So don't be shy, and [say hello](/contact) to return the favour. I'd love to know about you.
