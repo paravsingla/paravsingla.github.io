@@ -4,8 +4,41 @@
     <title></title>
     <link>http://localhost:4000</link>
     <description>
-      A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.
+      Welcome to my little corner of the internet.
     </description>
+    
+        
+            <item>
+                <title>Practice</title>
+                <link>http://localhost:4000/practice</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>“This is something you’ll learn only by practice. And it’ll only stay with you as long as you keep practicing”.</p>
+
+<p>An old man said this to me once. I asked him how I could improve my sketches. I didn’t really pay attention to his words at the time. I thought he was spouting the same bullshit everyone says. It sounded to me like a truism.</p>
+
+<p>Recently, I was sifting through my stuff and I found my old sketchbook. Memories came rushing back to me when I went through the pages. A few sketches were so good that I couldn’t believe I had done them. And it made me sad.</p>
+
+<p>Then I searched for my old diary, where I used to write my poems. Again, a few of them were brilliant. They were definitely written by someone else. I felt like a sham. A shadow of my former self.</p>
+
+<p>I couldn’t remember why I gave it up, but it was probably because at some point of time, I must’ve thought this wasn’t the best way I could make use of my time. And then I thought of everything else I had given up because I felt it was useless. Foreign languages, painting, music, sports - I gave up all of them. How can I die a happy man if they haunt me on my deathbed?</p>
+
+<p>In Oscar Wilde’s introduction to THE PICTURE OF DORIAN GRAY, he says, “All art is quite useless.”. In my quest to become more productive, I let go of everything I deemed useless. I never thought that I would need to feed my soul too, along with my thoughts. I never thought I would need some me-time.</p>
+
+<p>I have started again, from scratch. I realise the weight in the words of the old man now.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/practice</guid>
+                <description>
+                    
+                    This is something you'll learn only by practice. And it'll only stay with you as long as you keep practicing...
+                    
+                </description>
+                <pubDate>Tue, 28 Aug 2018 00:00:00 +0530</pubDate>
+                <author>Parav Singla</author>
+            </item>
+        
     
         
             <item>

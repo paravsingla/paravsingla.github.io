@@ -2,7 +2,7 @@
 title:       Parav Singla
 email:       hello@paravsingla.com
 author:      Parav Singla
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Welcome to my little corner of the internet."
 baseurl:     ""
 url:         "https://paravsingla.com"
 date_format: "%b %-d, %Y"
@@ -14,7 +14,7 @@ header_pages:
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: UA-125862987-1
 google_tag_manager:
 # Bing services
 bing_verification:
@@ -71,10 +71,10 @@ vk_id:
 # Post sharing icons
 show_sharing_icons: false
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
-share_linkedin: false
+share_facebook: true
+share_twitter: true
+share_googleplus: true
+share_linkedin: true
 share_digg: false
 share_tumblr: false
 share_reddit: false
