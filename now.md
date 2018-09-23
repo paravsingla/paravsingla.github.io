@@ -19,5 +19,5 @@ I've stopped taking freelance projects for a while save for some minor work beca
 
 ### That's All
 
-These are all the things that I'm working on in the moment. I've said halted my work on my music, startups and writing. This is a critical phase in my life which is going to decide a lot of stuff in my future. So, these are the decisions that I've taken after careful considerations.
+These are all the things that I'm working on at the moment. I've halted my work on my music, startups and writing. This is a critical phase in my life which is going to decide a great deal about my future. So, these are the decisions that I've taken after careful considerations.
 
