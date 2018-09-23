@@ -2,8 +2,8 @@
 layout:     post
 title:      I'll be Everything
 permalink:  /everything
-date:       2018-08-28
-summary:    It was not too long ago that I realized something - Life is long...
+date:       2018-09-3
+summary:    It was not too long ago that I realized something - Life is long.
 categories: thoughts
 ---
 
