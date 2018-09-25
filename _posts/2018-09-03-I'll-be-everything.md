@@ -35,7 +35,7 @@ It sounds selfish, and it is. Because the most important person for me, is me.
 
 And now, all of a sudden, life seems long to me. Because I actively participate in it. I want to do a lot of things. I want to be a lot of things. It used to make me sad because I thought I won't be able to. But now, I've come to know that if I'm willing to let go of the gold standard, to let go of the possibility of creating magic, I get to ask the question: why not all?
 
-Why can't I be everything I want and more? The old ansewer was "life is short". But I think its the mindset that is short. And I used to operate in the short-term mindset. But now, when I dream about me being something new, I collect everything and push it to a folder.
+Why can't I be everything I want and more? The old answer was "life is short". But I think its the mindset that is short. And I used to operate in the short-term mindset. But now, when I dream about me being something new, I collect everything and push it to a folder.
 
 I'll pick it up later.
 
