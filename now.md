@@ -7,17 +7,17 @@ permalink: /now
 
 ### Work:
 
-I'm a Software Engineer intern in a finance/tech company where I work on a Python/Django based microservice application. The internship will last till the mid of December, after which, I have to go back to college and complete a last semester.
+I did an internship in a finance/tech company where I worked on a Python/Django based microservice application. The internship lasted till the mid of December, after which, I was extended an offer to join as a full time employee, which I think was very kind of them.
 
-### Placements:
+### College:
 
-I am preparing for campus placements which start at the end of December. I'll be aiming for a Software Engineer role. So I need to learn a lot, my major being ECE and not CS.
+I have one semester of college remaining where I have some course work and a thesis to do. I expect the workload to be fairly light so I'll be participating in my other usual stuff.
 
 ### Freelancing:
 
-I've stopped taking freelance projects for a while save for some minor work because between the internship and interview preparation, there's very little time left for other things.
+I've started taking freelance projects again now. I'm currently building a niche ecommerce store for a company.
 
-### That's All
+### Music:
 
-These are all the things that I'm working on at the moment. I've halted my work on my music, startups and writing. This is a critical phase in my life which is going to decide a great deal about my future. So, these are the decisions that I've taken after careful considerations.
+I've written a few songs and I'm in the process of recording them. I'll be putting them out soon.
 

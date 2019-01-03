@@ -1,9 +1,20 @@
 ---
 layout: page
-title: About me
+title:
 permalink: /about/
 tags: about
 ---
+
+## About me in 10 seconds
+
+- I develop applications for the web and the iOS.
+- I'm in my final year of college.
+- I work as a freelancer.
+- I do a lot of other fun stuff.
+
+I love to discuss ideas and people say I'm really friendly. So [hit me up](/contact) for just about anything.
+
+## About me in 10 minutes
 
 Hi, my name is Parav Singla, and I'm a nobody. 
 
@@ -23,28 +34,24 @@ And I doubt it will happen, because I believe in improving myself every single d
 But don't think I'm some kind of speed demon. I'm a pretty low energy and chill kind of guy. It's really difficult to get me excited about something. I don't commit to things very often, but the things that I do take up, I like to see them through. It's either a 'Hell, Yes' for me or a 'No'.
 
 
-## I write for myself
+### I write for myself
 
-This may come across as a bit self indulgent but when I write, I'm mostly talking to myself. If I think too much about people reading my stuff, there's a sort of filter that creeps up and the whole thing ends up being insincere.
+This may come across as a bit self indulgent but when I write, I'm mostly talking to myself. I like to pretend no one will ever read this stuff (which is probably true). If I think too much about people reading my stuff, I tend to censor my thoughts and the whole thing ends up being insincere.
 
 I realised long ago that I like reading what I write. It captures a time, place and emotion for me which I like to relive often. 
 
 
-
-## Music
+### Music
 
 I have a very broad taste in music. I love Indian Classical Music, especially the Light Classical forms Ghazal, Thumri and Qawwalli. I also love listening to sufi, soft rock, hip hop, and punjabi folk. I don't like EDM. Some of my favorite artists are Ustad Nusrat Fateh Ali Khan, Ustad Ghulam Ali Khan, Shafqat Amanat Ali, Javed Bashir, Jeff Buckley, Daughtry, Nikhil D'souza, Eminem and Bohemia.
 
-## Sadness stays with me
-
-I feel some emotions more than others. You'll almost never find me angry or jealous or jumping with excitement. I'm often lost in a state of melancholy, and typically, for no particular reason. Sadness stays with me for a very long time. 
 
 
-## I hate noise
+### I hate noise
 
 I love silence and solitude. Crowds drain me. I find it difficult to converse with multiple people at the same time, so most of my interactions are one-on-one, and to the point. I believe that there's too much noise in the world as is so I refrain from contributing to it. You'll find that I either express my thoughts honestly or stay silent.
 My idea of fun is reading a thought provoking book, or discovering a piece of music that I would listen to a million times and still not get bored. 
 
 
-## There you go 
+### There you go 
 You know me a lot better now. So don't be shy, and [say hello](/contact) to return the favour. I'd love to know about you.

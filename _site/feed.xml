@@ -7,6 +7,94 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>My first hackintosh</title>
+        <description>&lt;p&gt;I recently built my first hackintosh.&lt;/p&gt;
+
+&lt;p&gt;A hackintosh is a computer running mac os on non apple hardware. As you can imagine, its a long and involved process. I faced across a couple of challenges on the way, but was able to do it with some help from the popular hackintosh forums on the internet. But running MacOs was not what I was excited about. It was the hardware. The brand spanking new hardware.&lt;/p&gt;
+
+&lt;p&gt;The thing is a beast. Intel i7 8700k with liquid cooling, 32 gigs of DDR4 memory and a 24 inch (almost) bezel less display. Putting it together was a blast. Initially, I wanted to build a custom case. I wanted to make it portable. I talked to my friend who has more knowledge than me in the field and we discussed designs for days.&lt;/p&gt;
+
+&lt;p&gt;But we realised soon enough that we were way in over our heads and building a decent, robust case would take months, time which none of us had. So I started looking into small form factor cases on the market and there were very few of them available in India, and I had destroyed my chances with all of them by using liquid cooling.&lt;/p&gt;
+
+&lt;p&gt;I had two options - ditch the liquid cooler and buy a small air cooler or use a larger case. As I often do when I have a tough decision to make, I decided to do nothing for a couple of days. Almost magically, I found that a case from a chinese company that I had overlooked because it was large, had its dimensions provided incorrectly on the website. I knew I would have to make some modifications but this was still better than the other options.&lt;/p&gt;
+
+&lt;p&gt;Now, the case was small, but fitting liquid cooling was very challenging, to say the least. It took me a whole day to cram the hardware inside. I had to take out almost everything that could be taken out from the case. But I am happy with the results. The CPU core temperature didn’t cross 50 degrees under heavy load, despite very low clearance between the radiator fans and the case.&lt;/p&gt;
+
+&lt;p&gt;The whole process of putting it together took me back to the childhood days. Back then, I was a god among men - atleast to my friends. I was the guy everyone called when they had a technical problem. I was Mr. Fixit. And I loved doing that. I had a bag full of CDs - games, software, operating systems - you name it. I installed Ubuntu 7.1 on my pc when I was in 10th grade, when the guy who lived below me was paying 10k a year to a guy for his copy of pirated windows.&lt;/p&gt;
+
+&lt;p&gt;I built my first PC when I was in ninth grade. This experience was nothing like that. Things were much simpler back then. But I was way more excited back then. I remember how my hands wouldn’t stop shaking when I was putting the ram in the motherboard. I was scared I would break something.&lt;/p&gt;
+
+&lt;p&gt;I miss that kid sometimes. He would get excited by little things. He would go on and on about the new Egyptian flavor of Win XP he torrented at the speed of 50kbps.&lt;/p&gt;
+
+&lt;p&gt;People say to me that I’ll remember college as the best time of my life.&lt;/p&gt;
+
+&lt;p&gt;I have almost graduated college. Few things will ever be as close to me as the curiosity and the laughter of that kid is.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Dec 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/hackintosh</link>
+        <guid isPermaLink="true">http://localhost:4000/hackintosh</guid>
+      </item>
+    
+      <item>
+        <title>An old friend</title>
+        <description>&lt;p&gt;I recently said goodbye to an old friend.&lt;/p&gt;
+
+&lt;p&gt;This friend of mine, he was an odd guy. Never spoke much, didn’t have a lot of friends. Wasn’t popular. Wasn’t one of the cool kids. There was one thing he had going for him though - he was brilliant. One of the smartest guys I’ve ever seen, but he was tossed aside. Like those really cheap disposable pens you’re never happy you bought in the first place. You buy them because they’re cheap, and you don’t care if you lose them.&lt;/p&gt;
+
+&lt;p&gt;I got to know him in school. I think I was his first friend. He always paid attention in class, and he would ask these amazingly insightful questions. You could practically see the teacher’s eyes light up when he raised his hand. But I guess people hated that. People hated that there was someone smarter than them. They hated that the teacher would walk all the way to the last bench to have a conversation with him, ignoring all the first benchers who were supposed to be the smart ones. He would’ve liked to sit at the first bench too, but the backbenchers were a lot more accepting.&lt;/p&gt;
+
+&lt;p&gt;He was always rejected. Made fun of. I remember he never brought lunch. Maybe he didn’t want to eat alone. I remember him sitting at the corner - looking out of the window. There were days when he was really popular though - usually when the exams were near. You could see the first benchers chatting him up, trying to figure out the secrets of his brilliance. Those were the only days I would see him smile. But I think he knew. He knew that they would disappear after the exams. I guess he was just enjoying it while it lasted.&lt;/p&gt;
+
+&lt;p&gt;It was the worst for him when a new year started. New people would join the class and after a couple of days, they would all settle down and find their groups, except him. He would sit with the firstbenchers for a couple of days, then they would toss him to the back. Sometimes, he would find another guy who no one wanted either and they would sit together. On other occasions, I would find him alone, always at the last bench, his chair slightly angled to the left.&lt;/p&gt;
+
+&lt;p&gt;During middle school, he was really fat. People would call him all sorts of names, make fun of him for being slow, physically, of course, but he took it all without a reaction. I never once saw him complain. It always broke my heart, seeing a nice guy being picked on. I used to wonder why life is so cruel to people sometimes, people who are good. Why is it always the smart guys and the nice guys who have a hard time in life.&lt;/p&gt;
+
+&lt;p&gt;After school, they spend their twenties building their life, while the people who make fun of them have nothing to build. And then in their thirties, after being alone for so many years, they marry the first girl that shows them any affection. Of course, with their juvenile understanding of relationships, they spend all their time working hard to please the girl, never realising that no amount of work, no amount of negotiation will make their girl want to love them.&lt;/p&gt;
+
+&lt;p&gt;But this guy didn’t even get a chance to see that. After school, he made it into one of the most prestigious institutions in the country. No one in my town came even close to what he achieved, except for a couple of girls, but their accomplishments are by association to the people they married. This guy, who was treated as a third class citizen his whole life, all the popular kids did nothing compared to him. I was happy for him. I thought he would finally get a chance to be near people like him.&lt;/p&gt;
+
+&lt;p&gt;I guess I was wrong.&lt;/p&gt;
+
+&lt;p&gt;They say he hung himself in his room. All I have now is his smile and his hauntingly beautiful questions. They can go on and on about how the education system is broken, but the education system never failed him. He had perfect grades, even in college.&lt;/p&gt;
+
+&lt;p&gt;People failed him.&lt;/p&gt;
+
+&lt;p&gt;People like me, who would never have what he had.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 Oct 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/old-friend</link>
+        <guid isPermaLink="true">http://localhost:4000/old-friend</guid>
+      </item>
+    
+      <item>
+        <title>This feeling</title>
+        <description>&lt;p&gt;The feeling of wanting something bad.&lt;/p&gt;
+
+&lt;p&gt;There’s this feeling I really want to know. I have been longing for it for a long time now. And I have searched hard for something that will cause me to experience that feeling. Just once. Just for a few moments.&lt;/p&gt;
+
+&lt;p&gt;I want to feel desperation. I want to experience it with every fiber of my being. In Eric Thomas’ words, I want to want something as bad as I want to breathe. I want to want something so bad that it hurts not to have it. At this point, I’m basically frustrated that I don’t get to have it.&lt;/p&gt;
+
+&lt;p&gt;Every night, I sleep with this longing in my heart and this hope that I will find something that will make me do things I would never imagine doing and every morning before I’m fully awake I’m reminded of this emptiness. I like to imagine how it would feel to go all out, and then go all out some more.&lt;/p&gt;
+
+&lt;p&gt;Now, as with most things, I have had a comprehensive discussion with myself about this idea since I first started toying with it. I tried to get out of it. I told myself that maybe no such thing really exists, maybe this is romanticized by writers to the point that they make you want it. Maybe I don’t really want it. But I couldn’t convince myself.&lt;/p&gt;
+
+&lt;p&gt;What really bothers me, though, is that this goes against my entire life philosophy. I’m the most interesting boring person I have ever met. I just chill. Thats it. I don’t get excited, I don’t get angry, I don’t get frustrated. I just chill. And I have consciously worked on it. Now, chilling is something I automatically do. And I definitely don’t get desperate. I’m always willing to walk away - to a fault.&lt;/p&gt;
+
+&lt;p&gt;But its not like I haven’t tried. I have tried countless times to pursue something that excites me, and I have made progress. There are things that I care very deeply about. But I just can’t seem to care enought.&lt;/p&gt;
+
+&lt;p&gt;I think Charles Bukowski described it the best in Factotum:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“If you’re going to try, go all the way. Otherwise, don’t even start. This could mean losing girlfriends, wives, relatives and maybe even your mind. It could mean not eating for three or four days. It could mean freezing on a park bench. It could mean jail. It could mean derision. It could mean mockery–isolation. Isolation is the gift. All the others are a test of your endurance, of how much you really want to do it. And, you’ll do it, despite rejection and the worst odds. And it will be better than anything else you can imagine. If you’re going to try, go all the way. There is no other feeling like that. You will be alone with the gods, and the nights will flame with fire. You will ride life straight to perfect laughter. It’s the only good fight there is.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+</description>
+        <pubDate>Fri, 05 Oct 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/desperation</link>
+        <guid isPermaLink="true">http://localhost:4000/desperation</guid>
+      </item>
+    
+      <item>
         <title>I'll be Everything</title>
         <description>&lt;p&gt;It was not too long ago that I realized something - Life is long.&lt;/p&gt;
 
@@ -34,15 +122,15 @@
 
 &lt;p&gt;It sounds selfish, and it is. Because the most important person for me, is me.&lt;/p&gt;
 
-&lt;p&gt;And now, all of a sudden, life seems long to me. Because I actively participate in it. I want to do a lot of things. I want to be a lot of things. It used to make me sad because I thought I won’t be able to. But now, I’ve come to know that if I’m willing to let go of the gold standard, to let go of the possibility of creating magic, I get to ask the questiom: why not all?&lt;/p&gt;
+&lt;p&gt;And now, all of a sudden, life seems long to me. Because I actively participate in it. I want to do a lot of things. I want to be a lot of things. It used to make me sad because I thought I won’t be able to. But now, I’ve come to know that if I’m willing to let go of the gold standard, to let go of the possibility of creating magic, I get to ask the question: why not all?&lt;/p&gt;
 
-&lt;p&gt;Why can’t I be everything I want and more? The old ansewer was “life is short”. But I think its the mindset that is short. And I used to operate in the short-term mindset. But now, when I dream about me being something new, I collect everything and push it to a folder.&lt;/p&gt;
+&lt;p&gt;Why can’t I be everything I want and more? The old answer was “life is short”. But I think its the mindset that is short. And I used to operate in the short-term mindset. But now, when I dream about me being something new, I collect everything and push it to a folder.&lt;/p&gt;
 
 &lt;p&gt;I’ll pick it up later.&lt;/p&gt;
 
 &lt;p&gt;I’ll be everything, just not at the same time.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 03 Sep 2018 00:00:00 +0530</pubDate>
+        <pubDate>Mon, 03 Sep 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/everything</link>
         <guid isPermaLink="true">http://localhost:4000/everything</guid>
       </item>
@@ -63,7 +151,7 @@
 
 &lt;p&gt;I have started again, from scratch. I realise the weight in the words of the old man now.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 28 Aug 2018 00:00:00 +0530</pubDate>
+        <pubDate>Tue, 28 Aug 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/practice</link>
         <guid isPermaLink="true">http://localhost:4000/practice</guid>
       </item>
@@ -96,7 +184,7 @@
 
 &lt;p&gt;“This is a moment that you’ll remember for a long, long time. Let’s make the best out of it.” is what I say to myself nowadays.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 21 Aug 2018 00:00:00 +0530</pubDate>
+        <pubDate>Tue, 21 Aug 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/matter</link>
         <guid isPermaLink="true">http://localhost:4000/matter</guid>
       </item>
