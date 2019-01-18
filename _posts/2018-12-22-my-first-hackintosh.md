@@ -9,7 +9,7 @@ categories: thoughts
 
 I recently built my first hackintosh. 
 
-A hackintosh is a computer running mac os on non apple hardware. As you can imagine, its a long and involved process. I faced across a couple of challenges on the way, but was able to do it with some help from the popular hackintosh forums on the internet. But running MacOs was not what I was excited about. It was the hardware. The brand spanking new hardware.
+A hackintosh is a computer running mac os on non apple hardware. As you can imagine, its a long and involved process. I came across a couple of challenges on the way, but was able to do it with some help from the popular hackintosh forums on the internet. But running MacOs was not what I was excited about. It was the hardware. The brand spanking new hardware.
 
 The thing is a beast. Intel i7 8700k with liquid cooling, 32 gigs of DDR4 memory and a 24 inch (almost) bezel less display. Putting it together was a blast. Initially, I wanted to build a custom case. I wanted to make it portable. I talked to my friend who has more knowledge than me in the field and we discussed designs for days.
 
