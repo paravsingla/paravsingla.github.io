@@ -17,9 +17,9 @@ Every night, I sleep with this longing in my heart and this hope that I will fin
 
 Now, as with most things, I have had a comprehensive discussion with myself about this idea since I first started toying with it. I tried to get out of it. I told myself that maybe no such thing really exists, maybe this is romanticized by writers to the point that they make you want it. Maybe I don't really want it. But I couldn't convince myself.
 
-What really bothers me, though, is that this goes against my entire life philosophy. I'm the most interesting boring person I have ever met. I just chill. Thats it. I don't get excited, I don't get angry, I don't get frustrated. I just chill. And I have consciously worked on it. Now, chilling is something I automatically do. And I definitely don't get desperate. I'm always willing to walk away - to a fault.
+What really bothers me, though, is that this goes against my entire life philosophy. I'm the most interesting boring person I have ever met. I just chill. Thats it. I don't get excited, I don't get angry, I don't get frustrated. I just chill. And I have consciously worked on it. Now, chilling is something I automatically do. And I definitely don't get desperate. I'm always willing to walk away - to the point of fault.
 
-But its not like I haven't tried. I have tried countless times to pursue something that excites me, and I have made progress. There are things that I care very deeply about. But I just can't seem to care enought.
+But its not like I haven't tried. I have tried countless times to pursue something that excites me, and I have made progress. There are things that I care very deeply about. But I just can't seem to care enough.
 
 I think Charles Bukowski described it the best in Factotum:
 
