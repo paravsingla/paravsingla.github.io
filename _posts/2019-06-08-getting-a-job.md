@@ -9,7 +9,7 @@ categories: thoughts
 
 After a tremendous process of studying, practicing, mock interviewing and real interviewing, I got a job. 
 
-The process taught me a lot of things. Since I earlier had a pre pracement offer, I was not eligible for campus placements and when I learned that the offer was rescinded, the placement session was mostly done. So I had to look for a job myself, like most people do. In some ways, now that I think about it, it was a liberating experience. Not knowing where I'll be or what I'll be doing. Being free, really, to choose anything.
+The process taught me a lot of things. Since I earlier had a pre placement offer, I was not eligible for campus placements and when I learned that the offer was rescinded, the placement session was mostly done. So I had to look for a job myself, like most people do. In some ways, now that I think about it, it was a liberating experience. Not knowing where I'll be or what I'll be doing. Being free, really, to choose anything.
 
 But unfortunately, that is not how I viewed it at the time. I was scared. I think the fear came from the knowledge that most of my friends and other people that I knew in the university had a job, and I didn't. Some of it was also from the fact that my family counted on me to have a job.
 
