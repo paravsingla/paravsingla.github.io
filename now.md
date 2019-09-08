@@ -7,15 +7,15 @@ permalink: /now
 
 ### Work:
 
-I did an internship in a finance/tech company where I worked on a Python/Django based microservice application. The internship lasted till the mid of December, after which, I was extended an offer to join as a full time employee, which I think was very kind of them.
+I am an Associate Software Engineer at a very large association which creates, among other things, processors for mobile devices.
 
 ### College:
 
-I have one semester of college remaining where I have some course work and a thesis to do. I expect the workload to be fairly light so I'll be participating in my other usual stuff.
+I graduated this year. (Yay!)
 
 ### Freelancing:
 
-I've started taking freelance projects again now. I'm currently building a niche ecommerce store for a company.
+I've started taking freelance projects again now. I'm currently building an LMS for a company.
 
 ### Music:
 
