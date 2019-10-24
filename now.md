@@ -7,15 +7,15 @@ permalink: /now
 
 ### Work:
 
-I am an Associate Software Engineer at a very large association which creates, among other things, processors for mobile devices.
+I am a Software Engineer at a very large organization which creates, among other things, processors for mobile devices.
 
-### College:
+### Teaching:
 
-I graduated this year. (Yay!)
+I work as a coding educator for a couple of startups.
 
 ### Freelancing:
 
-I've started taking freelance projects again now. I'm currently building an LMS for a company.
+I've stopped taking freelance projects.
 
 ### Music:
 
