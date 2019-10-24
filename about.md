@@ -8,8 +8,7 @@ tags: about
 ## About me in 10 seconds
 
 - I develop applications for the web and the iOS.
-- I'm in my final year of college.
-- I work as a freelancer.
+- I educate people about coding.
 - I do a lot of other fun stuff.
 
 I love to discuss ideas and people say I'm really friendly. So [hit me up](/contact) for just about anything.
