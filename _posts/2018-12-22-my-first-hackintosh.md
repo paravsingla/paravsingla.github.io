@@ -7,7 +7,7 @@ summary:    I built my first hackintosh.
 categories: thoughts
 ---
 
-I recently built my first hackintosh. 
+I recently built my first hackintosh. (Uh, for science, of course.)
 
 A hackintosh is a computer running mac os on non apple hardware. As you can imagine, its a long and involved process. I came across a couple of challenges on the way, but was able to do it with some help from the popular hackintosh forums on the internet. But running MacOs was not what I was excited about. It was the hardware. The brand spanking new hardware.
 
