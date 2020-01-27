@@ -31,7 +31,7 @@ But there's a second choice, and a second, slightly different interpretation of 
 
 So the first thing I did was to stop putting the blame on others. Even if it actually was their fault, I would take the blame on myself. That empowered me. If you blame other people, you can't solve the problem, because you take the power out of your hands. And that also helped me to take better decisions. Because I knew that I would later blame myself if anything goes wrong, I took the responsibility to do things I wanted.
 
-It sounds selfish, and it is. Because the most important person for me, is me.
+It sounds selfish, and it is. Because the most important person for me, should be me.
 
 And now, all of a sudden, life seems long to me. Because I actively participate in it. I want to do a lot of things. I want to be a lot of things. It used to make me sad because I thought I won't be able to. But now, I've come to know that if I'm willing to let go of the gold standard, to let go of the possibility of creating magic, I get to ask the question: why not all?
 
