@@ -7,7 +7,7 @@ tags: about
 
 ## About me in 10 seconds
 
-- I develop applications for the web and the iOS.
+- I develop applications for the Web.
 - I educate people about coding.
 - I do a lot of other fun stuff.
 
@@ -22,7 +22,7 @@ Reading about who I am or what I do is probably not going to solve any major pro
 
 The year was 2012, and rumor had it that the world was going to end. But somewhere in a little corner of the world, a curious little kid with starry brown eyes had just gotten his first mobile device - a Nokia 5233. And while people were busy making speculations about the apocalypse, this little kid had just found the key to another world- the digital one.
 
-And so, the journey that began with me deploying a wordpress website to a free shared hosting service has led me through doors I never imagined existed. Over the years, I've built at least a couple dozen websites and webapps using php, Rails, Node.js and Django.
+And so, the journey that began with me deploying a Wordpress website to a free shared hosting service has led me through doors I never imagined existed. Over the years, I've built at least a couple dozen websites and webapps using Php, Rails, Node.js, Flask, and Django.
 
 And some of them have been for my own ventures. I caught the startup bug in university and like to call myself an entrepreneur. Though you could argue that I'm just a small business owner, but 'entrepreneur' has a nice ring to it. And besides, it's what the cool kids call themselves these days, and I'll have you know that I'm anything but not-cool.
 
@@ -42,7 +42,7 @@ I realised long ago that I like reading what I write. It captures a time, place 
 
 ### Music
 
-I have a very broad taste in music. I love Indian Classical Music, especially the Light Classical forms Ghazal, Thumri and Qawwalli. I also love listening to sufi, soft rock, hip hop, and punjabi folk. I don't like EDM. Some of my favorite artists are Ustad Nusrat Fateh Ali Khan, Ustad Ghulam Ali Khan, Shafqat Amanat Ali, Javed Bashir, Jeff Buckley, Daughtry, Nikhil D'souza, Eminem and Bohemia.
+I have a very broad taste in music. I love Indian Classical Music, especially the Light Classical forms Ghazal, Thumri and Qawwalli. I also love listening to sufi, soft rock, hip hop, and punjabi folk. I don't like EDM. Some of my favorite artists are Ustad Nusrat Fateh Ali Khan, Ustad Ghulam Ali Khan, Shafqat Amanat Ali, Javed Bashir, Jeff Buckley, Daughtry, Eminem, Joyner, and Logic.
 
 
 
