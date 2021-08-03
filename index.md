@@ -19,7 +19,7 @@ This website is a work in progress, just like me.
 * a resume-like website where I list my accomplishments and accolades. Guess what? This ain't that.
 * a portfolio to showcase my work. Nope, none of that here.
 
-Well, then you ask, justifiably annoyed, what is this website for? Why would someone buy a domain name, set up a webpage, write so much text for nothing?
+Well, then you ask, justifiably annoyed, what is this website for? Why would someone buy a domain name, set up a webpage, write all this text for nothing?
 
 ## Its not for nothing
 
