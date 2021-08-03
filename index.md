@@ -43,9 +43,9 @@ Reality can be often dissapointing. This website can do none of that.
 
 How sad would it have been..after finding this obscure url, you get curious, your hands couldn't stop themselves from clicking on that link, or you find my email from somewhere and you just had to check out my website, excited by the prospects of finding a diamond in the rough, only to find out..that the site doesn't exist.
 
-### So there you go
+### Nope. Not today.
 
-I provided you something to read so your OCD doesn't spin out of control.
+I want you to be happy today. Also, I provided you something to read so your OCD doesn't spin out of control.
 
 ## PS
 
