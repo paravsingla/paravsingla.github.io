@@ -4,7 +4,7 @@ layout: default
 
 ## The quickest way to get in touch with me is to:
 
-Email me at [mailto:hello@paravsingla.com](hello@paravsingla.com)
+Email me at [hello@paravsingla.com](mailto:hello@paravsingla.com)
 
 ---
 
