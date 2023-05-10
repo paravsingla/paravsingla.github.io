@@ -47,10 +47,4 @@ How sad would it have been..after finding this obscure url, you get curious, you
 
 I want you to be happy today. Also, I provided you something to read so your OCD doesn't spin out of control.
 
-## PS
-
-If you're thinking about hiring me, I'm a super serious guy. This fun stuff is just a front. See pic for reference. (Its B&W just like my life, because I **never** goof around.)
-
-![Parav](https://www.gravatar.com/avatar/4b9e76386aba8e600c322172f9198838.jpg?s=200)
-
 
