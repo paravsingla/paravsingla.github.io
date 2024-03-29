@@ -1,2 +1,2 @@
-This repo is for my personal [website](https://paravsingla.com), powered by jekyll and github pages.
+This repo is for my old personal [website](https://paravsingla.github.io), powered by jekyll and github pages.
 
